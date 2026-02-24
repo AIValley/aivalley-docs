@@ -1,6 +1,6 @@
 # AIValley Docs
 
-The official documentation for AIValley.
+The official documentation for AIValley. 
 
 ## Getting Started
 
@@ -13,7 +13,8 @@ yarn dev
 # or
 pnpm dev
 # or
-bun dev
+bun dev 
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
